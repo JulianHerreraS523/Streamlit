@@ -2,3 +2,5 @@ scikit-learn
 plotly
 pillow
 opencv-python
+streamlit
+opencv-python-headless
