@@ -2,4 +2,3 @@ scikit-learn
 pltly
 pillow
 opencv-python
-streamlit
