@@ -1,5 +1,5 @@
 scikit-learn
-pltly
+plotly
 pillow
 opencv-python
 streamlit
