@@ -1,0 +1,4 @@
+scikit-learn
+pltly
+pillow
+opencv-python
